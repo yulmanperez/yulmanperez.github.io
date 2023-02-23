@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yulman Perez"
 title_separator          : "-"
 name                     : &name "Yulman Perez"
-description              : &description "personal description"
+description              : &description "PhD Candidate in Energy Resources Engineering"
 url                      : https://yulmanperez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yulmanperez/yulmanperez.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &yulman_perez
 facebook:
   username               :
   app_id                 :
