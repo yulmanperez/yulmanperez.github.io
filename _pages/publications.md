@@ -7,6 +7,8 @@ author_profile: true
 
 <b><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></b>
 
+<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+
 <span style="color:blue">some *blue* text</span>.
 
 
