@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+
+<span style="color:blue">some *blue* text</span>.
+
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
