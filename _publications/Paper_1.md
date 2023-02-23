@@ -1,7 +1,7 @@
 ---
 title: "Phase Behavior of Mixtures of Bitumen and n-Butane"
 collection: publications
-permalink: /publication/Paper_1
+permalink: /publications/Paper_1
 excerpt: 'This paper is about phase behavior of mixtures of bitumen and n-butane'
 date: 2019-08-22
 venue: 'Energy & Fuels'
