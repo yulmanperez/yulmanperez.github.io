@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+<b><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></b>
 
 <span style="color:blue">some *blue* text</span>.
 
