@@ -5,13 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font size="+4"><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></font>
+<b><a href="https://pubs.acs.org/doi/10.1021/acs.energyfuels.9b02113/">Phase Behavior of Mixtures of Bitumen and n-Butane!</a></b>
 
-<b><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></b>
-
-<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
-
-<span style="color:blue">some *blue* text</span>.
 
 
 {% if author.googlescholar %}
