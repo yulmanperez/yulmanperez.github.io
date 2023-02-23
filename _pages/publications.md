@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b><font size="+2"><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></font></b>
+<font size="+2"><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></font>
 
 <b><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></b>
 
