@@ -1,5 +1,5 @@
 ---
-title: "Phase Behavior of Mixtures of Bitumen and n-Butane"(https://pubs.acs.org/doi/full/10.1021/acs.energyfuels.9b02113)
+title: "Phase Behavior of Mixtures of Bitumen and n-Butane"
 collection: publications
 permalink: /publication/Paper_1
 excerpt: 'This paper is about phase behavior of mixtures of bitumen and n-butane'
