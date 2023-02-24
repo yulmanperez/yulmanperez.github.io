@@ -12,5 +12,5 @@ My current research area is focused on subsurface characterization for hydrocarb
 
 News
 ======
-1. A new paper will be released soon about undeground hydrogen storage.
-1. Returning to Houston for a Summer Internship. 
+1. A new paper will be released soon on undeground hydrogen storage.
+1. Returning to Houston for a Summer 2023. 
