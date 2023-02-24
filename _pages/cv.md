@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download paper here](http://yulmanperez.github.io/files/paper1.pdf)
+[Download CV Here](http://yulmanperez.github.io/files/paper1.pdf)
