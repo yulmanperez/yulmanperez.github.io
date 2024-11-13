@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My current research area is focused on subsurface characterization for hydrocarbon recovery or energy/waste storage. My research duties include acquisition of X-ray CT images at different length scales to quantify major heterogeneities within the rock matrix. Reservoir rocks are complex, and the pore-scale images required to estimate petrophysical properties are limited. Therefore, deep learning-based methods have shown promising results to improve the resolution/contrast for the images. In that sense, my objective is to develop new set of AI tools to improve petrophysical properties estimation.
+My current research area is focused on subsurface characterization for hydrocarbon recovery or energy/waste storage. My research duties include acquisition of X-ray CT images at different length scales to quantify major heterogeneities within the rock matrix. 
 
 News
 ======
