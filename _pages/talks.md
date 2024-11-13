@@ -4,6 +4,13 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+<b> GHGT 2024 </b> <br>
+Section: Unconventional Reservoir Characterization. <br>
+Evaluation Metrics for The Atlas CCS Project Using An AI Assisted Workflow <br>
+Li, Yunan; Perez Claro, Yulman; Zhou, Jimin; Chandra, Anirban; Jia, Liping; Dindoruk, Deniz; and Kovscek, Anthony R. <br> Shell and Stanford University <br>
+Calgary, Canada, 2024 <br>
+
 <b> IPTC 2024 </b> <br>
 Section: Unconventional Reservoir Characterization. <br>
 Mass Transfer Mechanisms in Shale Rocks: Diffusion Experiments Using X-ray Computed Tomography <br>
