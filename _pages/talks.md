@@ -4,7 +4,7 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-<b><a IPTC 2024</a></b> <br>
+<b> IPTC 2024</a></b> <br>
 Research Work: Mass Transfer Mechanism in Shale. <br>
 <b>Yulman Perez.</b><br>
 Saudi Arabia, 2024 <br>
