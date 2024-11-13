@@ -16,7 +16,12 @@ Section: Unconventional Reservoir Characterization. <br>
 Mass Transfer Mechanisms in Shale Rocks: Diffusion Experiments Using X-ray Computed Tomography <br>
 Y. Perez Claro, C. Ross, A. Kovscek, Stanford University <br>
 Dhahran, Saudi Arabia, 2024 <br>
-  
+
+<b> AGU 2023 </b> <br>
+Section: Underground Storage of Carbon and Energy. <br>
+Integrating Pore-scale Images with Multiphase Flow Simulations and Deep Generative Networks <br>
+Y. Perez Claro,T Kurotori, A. Kovscek, Stanford University <br>
+San Francisco, California - USA, 2024 <br>
 
 
 <b><a style="font-size:1.2vw;" href="https://www.youtube.com/watch?v=WBLWL1uBDSw"> Energy Transition in Colombia</a></b> <br>
