@@ -8,7 +8,7 @@ author_profile: true
 Section: Unconventional Reservoir Characterization. <br>
 Mass Transfer Mechanisms in Shale Rocks: Diffusion Experiments Using X-ray Computed Tomography <br>
 Y. Perez Claro, C. Ross, A. Kovscek, Stanford University <br>
-Saudi Arabia, 2024 <br>
+Dhahran, Saudi Arabia, 2024 <br>
   
 
 
