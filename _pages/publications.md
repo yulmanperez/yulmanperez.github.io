@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b><a style="font-size:1.2vw;" href="https://www.sciencedirect.com/science/article/pii/S0196890423007550">Intercomparison of numerical simulation models for hydrogen storage in porous media using different codes <br>
+<b><a style="font-size:1.2vw;" href="https://www.sciencedirect.com/science/article/pii/S0196890423007550">Intercomparison of numerical simulation models for hydrogen storage in porous media using different codes </a></b> <br>
 Esuru Rita Okoroafor, Luiz Sampaio,Firdovsi Gasanzade, <b>Yulman Perez</b>, Jimin D. Zhou, Sarah D. Saltzer, Sebastian Bauer, Anthony R. Kovscek <br>
 Energy Conversion & Management, 2023 <br>
 
