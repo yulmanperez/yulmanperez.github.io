@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-**List of Projects
+**List of Projects.
 
 <b> Summer Internship 2023 </b> <br>
 Polaris CCS Project<br>
