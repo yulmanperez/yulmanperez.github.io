@@ -26,7 +26,7 @@ San Francisco, California - USA, 2024 <br>
 
 <b><a style="font-size:1.2vw;" href="https://www.youtube.com/watch?v=WBLWL1uBDSw"> Energy Transition in Colombia</a></b> <br>
 Panelists: Andres Mantilla, Thomas Lutz, Rafael Guzman. <br>
-Moderator: <b>Yulman Perez.</b><br>
+Moderator: Yulman Perez <br>
 Online, 2022 <br>
   
 
