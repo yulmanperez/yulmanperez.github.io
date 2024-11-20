@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /teaching/
+permalink: /Projects/
 author_profile: false
 ---
 
