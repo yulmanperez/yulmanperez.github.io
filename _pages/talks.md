@@ -23,6 +23,7 @@ Integrating Pore-scale Images with Multiphase Flow Simulations and Deep Generati
 Y. Perez Claro,T Kurotori, A. Kovscek, Stanford University <br>
 San Francisco, California - USA, 2024 <br>
 
+<b> AGU 2023 </b> <br>
 
 <b><a style="font-size:1.2vw;" href="https://www.youtube.com/watch?v=WBLWL1uBDSw"> Energy Transition in Colombia</a></b> <br>
 Panelists: Andres Mantilla, Thomas Lutz, Rafael Guzman. <br>
