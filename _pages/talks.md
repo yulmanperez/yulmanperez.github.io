@@ -19,7 +19,7 @@ Dhahran, Saudi Arabia, 2024 <br>
 
 <b> 15TH INTERNATIONAL SYMPOSIUM ON WETTABILITY AND POROUS MEDIA</b> <br>
 Improving Multiphase Pore-scale Transport Simulations on MicroCT Images Using Super Resolution Generative Networks <br>
-Laramie, Wyoming, 2023
+Laramie, Wyoming - USA, 2023
 
 <b> AGU 2023 </b> <br>
 Section: Underground Storage of Carbon and Energy. <br>
@@ -30,7 +30,7 @@ San Francisco, California - USA, 2024 <br>
 <b> AGU 2021 </b> <br>
 Imaging Mass Transfer in Nanoporous Shale Using AI Tools for Improving X-ray CT Scan Resolution <br>
 Y Perez Claro, BX Medina Rodriguez, K Covington, T Lehmann, V Alvarado, AR Kovscek <br>
-New Orleans, Louisiana
+New Orleans, Louisiana -USA, 2021
 
 
 <b><a style="font-size:1.2vw;" href="https://www.youtube.com/watch?v=WBLWL1uBDSw"> Energy Transition in Colombia</a></b> <br>
