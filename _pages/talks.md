@@ -25,12 +25,18 @@ Laramie, Wyoming - USA, 2023
 Section: Underground Storage of Carbon and Energy. <br>
 Integrating Pore-scale Images with Multiphase Flow Simulations and Deep Generative Networks <br>
 Y. Perez Claro,T Kurotori, A. Kovscek, Stanford University <br>
-San Francisco, California - USA, 2024 <br>
+San Francisco, California - USA, 2023 <br>
+
+<b> SPE Western Regional Meeting </b> <br>
+Analyzing X-Ray CT Images from Unconventional Reservoirs Using Deep Generative Models <br>
+Yulman Perez Claro;  Niccolo Dal Santo;  Vignesh Krishnan;  Anthony Kovscek <br>
+MathWorks-Stanford<br>
+Bakersfield, California, USA, 2022 <br>
 
 <b> AGU 2021 </b> <br>
 Imaging Mass Transfer in Nanoporous Shale Using AI Tools for Improving X-ray CT Scan Resolution <br>
 Y Perez Claro, BX Medina Rodriguez, K Covington, T Lehmann, V Alvarado, AR Kovscek <br>
-New Orleans, Louisiana -USA, 2021
+New Orleans, Louisiana - USA, 2021
 
 
 <b><a style="font-size:1.2vw;" href="https://www.youtube.com/watch?v=WBLWL1uBDSw"> Energy Transition in Colombia</a></b> <br>
