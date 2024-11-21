@@ -15,7 +15,7 @@ Houston, Texas, 2024 <br>
 
 <b> Summer Internship 2023 </b> <br>
 <b><a style="font-size:1.2vw;" href="https://www.shell.com/news-and-insights/newsroom/news-and-media-releases/2024/shell-to-build-carbon-capture-and-storage-projects-in-canada.html"> Polaris CCS Project</a></b> - Alberta, Canada<br>
-Houston, Texas, 2024 <br>
+Houston, Texas, 2023 <br>
 
 {% include base_path %}
 
