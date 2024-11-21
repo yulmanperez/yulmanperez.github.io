@@ -17,6 +17,10 @@ Mass Transfer Mechanisms in Shale Rocks: Diffusion Experiments Using X-ray Compu
 Y. Perez Claro, L. Froute, C. Ross, A. Kovscek, Stanford University <br>
 Dhahran, Saudi Arabia, 2024 <br>
 
+<b> W15TH INTERNATIONAL SYMPOSIUM ON WETTABILITY AND POROUS MEDIA</b> <br>
+Improving Multiphase Pore-scale Transport Simulations on MicroCT Images Using Super Resolution Generative Networks <br>
+Laramie, Wyoming, 2023
+
 <b> AGU 2023 </b> <br>
 Section: Underground Storage of Carbon and Energy. <br>
 Integrating Pore-scale Images with Multiphase Flow Simulations and Deep Generative Networks <br>
@@ -24,6 +28,8 @@ Y. Perez Claro,T Kurotori, A. Kovscek, Stanford University <br>
 San Francisco, California - USA, 2024 <br>
 
 <b> AGU 2022 </b> <br>
+New Orleans, Louisiana
+
 
 <b><a style="font-size:1.2vw;" href="https://www.youtube.com/watch?v=WBLWL1uBDSw"> Energy Transition in Colombia</a></b> <br>
 Panelists: Andres Mantilla, Thomas Lutz, Rafael Guzman. <br>
