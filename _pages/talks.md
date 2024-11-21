@@ -14,7 +14,7 @@ Calgary, Canada, 2024 <br>
 <b> IPTC 2024 </b> <br>
 Section: Unconventional Reservoir Characterization. <br>
 Mass Transfer Mechanisms in Shale Rocks: Diffusion Experiments Using X-ray Computed Tomography <br>
-Y. Perez Claro, C. Ross, A. Kovscek, Stanford University <br>
+Y. Perez Claro, L. Frout'e, C. Ross, A. Kovscek, Stanford University <br>
 Dhahran, Saudi Arabia, 2024 <br>
 
 <b> AGU 2023 </b> <br>
