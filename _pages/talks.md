@@ -28,8 +28,8 @@ Y. Perez Claro,T Kurotori, A. Kovscek, Stanford University <br>
 San Francisco, California - USA, 2024 <br>
 
 <b> AGU 2021 </b> <br>
-2D and 3D Diffusive Mass Transfer in Nanoporous Shale Samples using X-Ray CT and Compared with NMR Results. <br>
-Yulman Perez Claro, Kyle Covington, Bryan Medina Rodriguez, Alexander Goroncy, Teresa Lehmann, Vladimir Alvarado, Anthony Kovscek <br>
+Imaging Mass Transfer in Nanoporous Shale Using AI Tools for Improving X-ray CT Scan Resolution <br>
+Y Perez Claro, BX Medina Rodriguez, K Covington, T Lehmann, V Alvarado, AR Kovscek <br>
 New Orleans, Louisiana
 
 
