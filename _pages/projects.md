@@ -18,7 +18,7 @@ Houston, Texas, 2023 <br>
 
 <b> Summer Internship 2022 </b> <br>
 CCS Storage Mechanisms <br>
-Houston, Texas, 2023 <br>
+Houston, Texas, 2022 <br>
 
 {% include base_path %}
 
