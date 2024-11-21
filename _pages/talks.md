@@ -17,7 +17,7 @@ Mass Transfer Mechanisms in Shale Rocks: Diffusion Experiments Using X-ray Compu
 Y. Perez Claro, L. Froute, C. Ross, A. Kovscek, Stanford University <br>
 Dhahran, Saudi Arabia, 2024 <br>
 
-<b> W15TH INTERNATIONAL SYMPOSIUM ON WETTABILITY AND POROUS MEDIA</b> <br>
+<b> 15TH INTERNATIONAL SYMPOSIUM ON WETTABILITY AND POROUS MEDIA</b> <br>
 Improving Multiphase Pore-scale Transport Simulations on MicroCT Images Using Super Resolution Generative Networks <br>
 Laramie, Wyoming, 2023
 
