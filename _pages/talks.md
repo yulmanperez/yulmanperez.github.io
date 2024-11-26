@@ -19,6 +19,7 @@ Dhahran, Saudi Arabia, 2024 <br>
 
 <b> 15TH INTERNATIONAL SYMPOSIUM ON WETTABILITY AND POROUS MEDIA</b> <br>
 Improving Multiphase Pore-scale Transport Simulations on MicroCT Images Using Super Resolution Generative Networks <br>
+Yulman Perez Claro,Takeshi Kurotori, Anthony R. Kovscek, Stanford University
 Laramie, Wyoming - USA, 2023
 
 <b> AGU 2023 </b> <br>
