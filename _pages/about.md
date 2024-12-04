@@ -13,5 +13,6 @@ My current research area is focused on subsurface characterization for hydrocarb
 News
 ======
 1. A new study on the mass transfer mechanims of Unconventional Formations (Shale) will be released soon.
-2. Curtailed Electricity + Energy Storage in California will be presented at the 2025 SPE WRM.
+   
+2. The study: Where is Curtailed Electricity in California? Opportunities for Energy Storage  will be presented at the 2025 SPE WRM.
 
