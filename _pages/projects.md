@@ -20,6 +20,11 @@ Houston, Texas, 2023 <br>
 CCS Storage Mechanisms <br>
 Houston, Texas, 2022 <br>
 
+<b> Additional Projects </b> <br>
+Improving the Image Resolution Using Deep Generative Models. <br>
+MathWorks 2021 <br>
+
+
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
