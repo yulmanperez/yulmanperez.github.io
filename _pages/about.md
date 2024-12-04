@@ -12,5 +12,5 @@ My current research area is focused on subsurface characterization for hydrocarb
 
 News
 ======
-1. A new study on the mass transfer mechanims in Unconventional or Sealing Formations (Shale) will be released soon.
-2. Returning to Houston for Summer 2023. 
+1. A new study on the mass transfer mechanims of Unconventional Formations (Shale) will be released soon.
+2. Curtailed Electricity + Energy Storage in California will be presented at the SPE WRM in 2025.
