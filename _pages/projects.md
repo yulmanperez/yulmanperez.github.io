@@ -24,7 +24,7 @@ Energy and Enviromental Economics E3, 2024 -2025 <br>
 - CMG Simulation for Underground Hydrogen Storage. <br>
 Stanford Center for Carbon Capture and Storage, 2021 -2022 <br>
 
-- Improving the Image Resolution Using Deep Generative Models. <br>
+- Improving the Resolution of X-Ray CT Images Using Deep Generative Models. <br>
 MathWorks, INC. 2020-2021 <br>
 
 
