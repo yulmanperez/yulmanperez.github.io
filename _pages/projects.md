@@ -21,8 +21,11 @@ CCS Storage Mechanisms <br>
 Houston, Texas, 2022 <br>
 
 <b> Additional Projects </b> <br>
-Improving the Image Resolution Using Deep Generative Models. <br>
-MathWorks 2021 <br>
+- CMG Simulation for Underground Hydrogen Storage. <br>
+Stanford Center for Carbon Capture and Storage, 2020 -2021 <br>
+
+- Improving the Image Resolution Using Deep Generative Models. <br>
+MathWorks, INC. 2020-2021 <br>
 
 
 {% include base_path %}
