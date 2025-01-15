@@ -7,7 +7,9 @@ author_profile: true
 
 <b> GHGT 2024 </b> <br>
 Section: CCS Field Development. <br>
-Evaluation Metrics for The Atlas CCS Project Using An AI Assisted Workflow [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011125] <br>
+Evaluation Metrics for The Atlas CCS Project Using An AI Assisted Workflow [] <br>
+
+<b><a style="font-size:1.2vw;" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5011125"> Deepwater Dover Field</a></b>
 Li, Yunan; Perez Claro, Yulman; Zhou, Jimin; Chandra, Anirban; Jia, Liping; Dindoruk, Deniz; and Kovscek, Anthony R. <br> Shell and Stanford University <br>
 Calgary, Canada, 2024 <br>
 
