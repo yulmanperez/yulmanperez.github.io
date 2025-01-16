@@ -10,6 +10,8 @@ redirect_from:
 
 My current research area is focused on subsurface characterization for hydrocarbon recovery or energy/waste storage. My research duties include acquisition of X-ray CT images at different length scales to quantify major heterogeneities within the rock matrix. 
 
+During my PhD journey, I have been exposed to an unique set of projects that helped me to build my skills including Deepwater operations in the Golf of Mexico, Carbon Capture and Storage in Alberta, geospatiall Electricity Curtailment / Energy Storage in California, Unconventional Resources in WolfCamp Midland Permian. I will be wrapping up my PhD studies soon.
+
 News
 ======
 1. A new study on the mass transfer mechanims of Unconventional Formations (Shale) will be released soon.
