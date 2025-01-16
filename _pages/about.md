@@ -18,5 +18,4 @@ News
    
 2. The study: Where is Curtailed Electricity in California? Opportunities for Energy Storage  will be presented at the 2025 SPE WRM.
 
-<<<3.I will be visiting University, where I will share my research experience. In addition, we will be exploring the country's geology and will help them with the experimental setup for their ongoing projects related to the country's decarbonization efforts.>>>
 
