@@ -5,6 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
+<b> Spring 2025 </b> <br>
+<b><a style="font-size:1.2vw;" href="https://www.tesla.com/support/energy/tesla-software/autobidder"> Autobidder</a></b> <br>
+Tesla, Palo Alto, CA, 2025 <br>
+
 <b> Summer 2024 </b> <br>
 <b><a style="font-size:1.2vw;" href="https://www.shell.us/about-us/news-and-insights/media/2023-media-releases/shell-takes-investment-decision-at-dover-in-us-gulf-of-mexico.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwudXMvbWVkaWEvMjAyMy1tZWRpYS1yZWxlYXNlcy9zaGVsbC10YWtlcy1pbnZlc3RtZW50LWRlY2lzaW9uLWF0LWRvdmVyLWluLXVzLWd1bGYtb2YtbWV4aWNvLmh0bWw"> Deepwater Dover Field</a></b> - US Gulf of Mexico<br>
 Shell, Houston, Texas, 2024 <br>
