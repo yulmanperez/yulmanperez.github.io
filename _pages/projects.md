@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <b> Spring 2025 </b> <br>
-<b><a style="font-size:1.2vw;" href="https://www.tesla.com/support/energy/tesla-software/autobidder"> Autobidder Team</a></b> Energy Markets<br>
+<b><a style="font-size:1.2vw;" href="https://www.tesla.com/support/energy/tesla-software/autobidder"> Autobidder Team</a></b> - Energy Markets<br>
 Tesla, Palo Alto, CA, 2025 <br>
 
 <b> Summer 2024 </b> <br>
