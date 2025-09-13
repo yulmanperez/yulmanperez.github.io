@@ -10,7 +10,13 @@ redirect_from:
 
 My current research area focused on subsurface characterization for hydrocarbon recovery or energy/waste storage. One of my key responsibilities includes the acquisition of X-ray CT images at different length scales to quantify major heterogeneities within the rock matrix. 
 
-During my PhD journey, I have been exposed to a unique set of projects that have helped me to build my skills. These projects include Deepwater operations in the Gulf of Mexico, Carbon Capture and Storage in Alberta, geospatial Electricity Curtailment / Energy Storage in California, characterization of Unconventional Resources in the WolfCamp Midland Permian formation, and training and testing of Generative Computer Vision models with X-ray CT images.
+During my PhD journey, I have been exposed to a unique set of projects that have helped me to build my skills, including  
+
+- Deepwater operations in the Gulf of Mexico  
+- Carbon Capture and Storage in Alberta  
+- Geospatial analysis of Electricity Curtailment and Energy Storage in California  
+- Characterization of Unconventional Resources in the WolfCamp Midland Permian formation  
+- Training and testing of Generative Computer Vision models with X-ray CT images  
 
 News
 ======
