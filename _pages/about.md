@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My current research area focused on subsurface characterization for hydrocarbon recovery or energy/waste storage. One of my key responsibilities includes the acquisition of X-ray CT images at different length scales to quantify major heterogeneities within the rock matrix. 
+My current research area focuses on subsurface characterization for hydrocarbon recovery and energy/waste storage. One of my key responsibilities includes the acquisition of X-ray CT images at different length scales to quantify major heterogeneities within the rock matrix. 
 
 During my PhD journey, I have been exposed to a unique set of projects that have helped me to build my skills, including  
 
