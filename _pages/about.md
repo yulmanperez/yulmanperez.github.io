@@ -16,7 +16,7 @@ During my PhD journey, I have been exposed to a unique set of projects that have
 - Carbon capture and storage, CCS in Alberta. 
 - Geospatial analysis of electricity curtailment in California.
 - Spatial analysis of gas field distribution and infrastructure in California.
-- Characterization of unconventional resources in the Wolfcamp Formation at the HFTS-1 test site in the Permian Basin, West Texas, USA.
+- Characterization of Wolfcamp Formation core samples collected at the HFTS-1 test site in the Permian Basin.
 - Training and testing of Generative Computer Vision models with X-ray CT images.  
 
 News
