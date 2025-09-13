@@ -13,9 +13,9 @@ My current research area focuses on subsurface characterization for hydrocarbon 
 During my PhD journey, I have been exposed to a unique set of projects that have helped me to build my skills, including  
 
 - Deepwater operations in the Gulf of Mexico.  
-- Carbon capture and storage, CCS in Alberta. 
+- Carbon capture and storage, CCS in Alberta, Canada. 
 - Geospatial analysis of electricity curtailment in California.
-- Spatial analysis of gas field distribution and infrastructure in California.
+- Subsurface study of the gas fields in California, including active, abandoned and undeground gas storage sites.
 - Characterization of Wolfcamp Formation core samples collected at the HFTS-1 test site in the Permian Basin.
 - Training and testing of Generative Computer Vision models with X-ray CT images.  
 
