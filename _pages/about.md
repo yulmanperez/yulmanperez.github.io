@@ -22,6 +22,6 @@ News
 ======
 1. A new study on the mass transfer mechanims of Unconventional Formations (Shale) will be released soon.
    
-2. The study: Where is Curtailed Electricity in California? Opportunities for Energy Storage  will be presented at the 2025 SPE WRM.
+2. The study: Where is curtailed electricity happening in California? Opportunities for energy storage  will be presented at the 2025 SPE WRM.
 
 
