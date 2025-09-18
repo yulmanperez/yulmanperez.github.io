@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My work has centered on subsurface characterization for hydrocarbon recovery and long-term energy and waste storage. A major focus of my PhD research was the development and application of multi-scale X-ray CT imaging workflows to quantify heterogeneities within the rock matrix, providing insights that are critical for modeling mass-transfer processes.
+My work has centered on subsurface characterization for hydrocarbon recovery and long-term energy and waste storage. A major focus of my PhD research was the development and application of multi-scale X-ray CT imaging workflows to quantify heterogeneities within the rock matrix, providing insights that are critical to understand the mass-transfer processes.
 
 During my PhD journey, I have engaged in a diverse set of projects that have expanded my technical expertise and broadened my perspective on energy systems:
 
