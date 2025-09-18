@@ -10,7 +10,7 @@ redirect_from:
 
 My work has centered on subsurface characterization for hydrocarbon recovery and long-term energy and waste storage. A major focus of my PhD research was the development and application of multi-scale X-ray CT imaging workflows to quantify heterogeneities within the rock matrix, providing insights that are critical for modeling mass-transfer processes.
 
-Along the way, I have gained a diverse set of experiences in:
+During my PhD journey, I have engaged in a diverse set of projects that have expanded my technical expertise and broadened my perspective on energy systems:
 
 - Offshore deepwater operations in the Gulf of Mexico.
 - Carbon capture and storage (CCS) site assessment in Alberta, Canada.
