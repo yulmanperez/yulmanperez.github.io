@@ -7,33 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome — I’m an engineer advancing technologies for the future of energy.
 
-My work has been centered on subsurface characterization for hydrocarbon recovery and long-term energy and waste storage. A major focus of my PhD research was the development and application of multi-scale X-ray CT imaging workflows to quantify heterogeneities within the rock matrix, providing insights that are critical to understand the mass-transfer processes.
+My PhD research focused on developing multi-scale X-ray CT imaging workflows to better understand rock heterogeneity and mass-transfer processes. Along the way, I’ve applied these skills across the energy industry through projects in areas such as:
 
-During my PhD journey, I have engaged in a diverse set of projects that have expanded my technical expertise and broadened my perspective on the energy industry, including:
+- Offshore Oil & Gas: Deepwater operations in the Gulf of Mexico with Shell.
+- Carbon Management: CCS site assessments in Alberta, Canada.
+- Renewable Energy: Geospatial analysis of electricity curtailment in California.
+- Natural Gas Infrastructure: Evaluations of active, abandoned, and underground storage sites in California.
+- Unconventional Oil & Gas: Core characterization of the Wolfcamp Formation at the HFTS-1 test site.
+- Energy Technology & AI: Training generative computer vision models on X-ray CT data.
+- Energy Markets & Trading: Internship with Tesla’s Autobidder team.
 
-1. Deepwater operations in the Gulf of Mexico
-- Segment: Offshore Oil & Gas
-
-2. Carbon capture and storage (CCS) site assessments in Alberta, Canada
-- Segment: Carbon Management / Environmental Sustainability
-
-3. Geospatial analysis of electricity curtailment in California
-- Segment: Renewable Energy / Grid Management
-
-4. Subsurface evaluations of gas field infrastructure in California, spanning active, abandoned, and underground gas storage sites
-- Segment: Natural Gas / Infrastructure & Storage
-
-5. Core characterization of the Wolfcamp Formation at the HFTS-1 test site in the Permian Basin
-- Segment: Unconventional Oil & Gas (Shale)
-
-6. Training and testing generative computer vision models using X-ray CT imaging
-- Segment: Energy Technology / Data Science & AI
-
-7. Energy market internship with the Autobidder team
-- Segment: Energy Markets / Energy Trading & AI
-
-As I transition from academia into industry, my immediate goal is to apply this expertise within a major energy company, while leaving space to pursue future endeavors that connect technical innovation with the dynamics of global energy markets.
+As I transition from academia into industry, I’m eager to apply this expertise within a major energy company while continuing to connect technical innovation with the evolving dynamics of global energy markets.
 
 News
 ======
