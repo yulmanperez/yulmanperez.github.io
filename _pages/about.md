@@ -17,7 +17,7 @@ During my PhD journey, I have engaged in a diverse set of projects that have exp
 - Geospatial analysis of electricity curtailment in California.
 - Subsurface evaluation of gas field infrastructure in California, including active, abandoned, and underground gas storage sites.
 - Core characterization of the Wolfcamp Formation at the HFTS-1 test site in the Permian Basin.
-- Training and testing of generative computer vision models with X-ray CT images.
+- Training and testing of generative computer vision models using X-ray CT images.
 - Energy markets internship with the Autobidder team.
 
 As I transition from academia into industry, my immediate goal is to apply this expertise within a major energy company, while leaving space to pursue future endeavors that connect technical innovation with the dynamics of global energy markets.
