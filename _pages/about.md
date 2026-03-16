@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome — I’m an engineer advancing technologies for the future of energy.
 
-My PhD research focused on developing multi-scale X-ray CT imaging workflows to better understand rock heterogeneity and mass-transfer processes. Along the way, I’ve applied these skills across the energy industry through projects in areas such as:
+My PhD research focused on developing multi-scale x-ray CT imaging workflows to better understand rock heterogeneity and mass-transfer processes. Along the way, I’ve applied these skills across the energy industry through projects in areas such as:
 
 - Offshore Oil & Gas: Deepwater operations in the Gulf of Mexico with Shell.
 - Carbon Management: CCS site assessments in Alberta, Canada.
